@@ -3,7 +3,7 @@
 # One-click installation script for Docker and Docker Compose
 # Should work on sh, dash, bash, ksh, zsh
 #
-# Copyright (C) 2018-present, Implemented by HB <https://github.com/hzb>
+# Copyright (C) 2018-present, Implemented by HB <https://github.com/tourcoder>
 
 red='\e[91m'
 none='\e[0m'
