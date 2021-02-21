@@ -31,4 +31,4 @@ Please feel free to submit your PR or issue.
 
 [MIT](LICENSE)
 
-Copyright (C) 2018-present, HB
+Copyright (C) 2018-present, Bin Hua
